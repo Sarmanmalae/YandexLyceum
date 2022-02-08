@@ -48,6 +48,7 @@ def ad():
                   </body>
                 </html>"""
 
+
 @app.route('/image_mars')
 def ex3():
     return f"""<!doctype html>
